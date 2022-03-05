@@ -1,0 +1,85 @@
+.brown-div{
+background-color:orangered;
+  border-bottom: brown 5px solid;
+  font-size: 20px;
+  padding:30px;
+  justify-content: center;
+}
+image{
+  width:100%;
+}
+ 
+.content-div{
+  background-color:green; 
+   
+
+}
+
+.content2-div {
+  width:30%;
+  padding-left: 50%;
+ 
+
+}
+
+
+
+
+ .grey-div{
+    display: flex;
+    justify-content:space-between;
+    padding: 20px   50px 0; 
+  
+}
+ul{
+ display: flex;
+    list-style: none;
+
+}
+   
+li{
+   padding-right:20px;
+   color:lightcyan;
+   font-size: 20px;
+
+}
+
+
+
+
+ 
+
+body{
+  margin:6px;
+  padding:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

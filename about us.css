@@ -1,0 +1,21 @@
+.main-div {
+  
+
+}
+
+.about {
+    padding:10px 20px;
+    border-radius:20px;
+    font-size:20px;
+}
+body {
+    margin: 0;
+      background-color: green;
+}
+
+.but{
+   color:blue;
+   border-radius: 20px;
+   padding:10px 20px;
+    
+}

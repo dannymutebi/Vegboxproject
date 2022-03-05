@@ -1,0 +1,22 @@
+form {
+    background-color:green;
+}
+
+.head-div{
+    background-color: maroon;
+    border-bottom:green 7px solid;
+}
+
+
+body{
+    margin:0;
+    padding:0;
+}
+button{
+    color:grey;
+    background-color:red ;
+}  
+body{
+    background-color:green;
+
+}

@@ -1,0 +1,37 @@
+.works-div{
+color: aqua;
+}
+
+.hand-div{
+    font-size: 20px;
+    padding:10px 20px;
+    border-radius: 20px;
+
+} 
+.subscribe-div {
+    font-size: 20px;
+    padding:20px 20px;
+    border-radius: 20px;
+}
+
+
+.pick-div {
+font-size: 20px;
+padding:10px 20px;
+border-radius: 20px;
+
+}
+
+
+ a{
+    color: rgb(63, 63, 248);
+    font-size: 20px;
+    justify-items: center;
+    padding-left: 8%;
+    text-decoration: none;
+}
+body{
+    background-color: green;
+}
+
+

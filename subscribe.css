@@ -1,0 +1,15 @@
+body{
+    padding: 20px 0;
+    margin: 0;
+    background-color:green;
+}
+.subscribe-div {
+    font-size: 30px;
+}
+input[type="submit"]{
+    font-size: 30px;
+    color:blue;
+    background-color: green;
+    padding: 20px 50px;
+    border-radius: 20px;
+}
